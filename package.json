@@ -1,0 +1,20 @@
+{
+  "name": "shes-a-riot",
+  "version": "1.0.0",
+  "description": "Informal catalogue of (low quality) travel photos documenting adventure, exploration, and a hint of debauchery.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayagold/shes-a-riot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayagold/shes-a-riot/issues"
+  },
+  "homepage": "https://github.com/mayagold/shes-a-riot#readme"
+}
